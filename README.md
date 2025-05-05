@@ -31,6 +31,7 @@ MulVis 是一个用于多维度数据可视化的演示项目。该项目旨在�
 
 ## 项目结构
 
+```bash
 mulvis-demo/
 ├── demos/ # 源代码目录
 │ ├── configs.py # 配置文件
