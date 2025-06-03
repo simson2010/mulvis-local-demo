@@ -1,0 +1,3 @@
+Start Server:
+
+uvicorn api:app --reload
