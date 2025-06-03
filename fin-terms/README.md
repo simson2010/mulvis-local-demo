@@ -17,6 +17,7 @@
 - Pandas
 
 ## 项目结构
+```plaintext
 fin_terms/
 ├── main.py # FastAPI 主程序，API 路由定义
 ├── db/
@@ -24,7 +25,7 @@ fin_terms/
 ├── src/
 │ └── search_terms.py # Milvus 搜索与向量化逻辑封装
 └── client.py # 命令行客户端，调用 API 进行查询、
-
+```
 
 ## 环境依赖
 
