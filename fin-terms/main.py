@@ -1,4 +1,3 @@
-# ... existing code ...
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from .src.serch_terms import MilvusSearcher
