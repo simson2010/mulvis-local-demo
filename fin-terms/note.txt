@@ -1,3 +1,5 @@
 Start Server:
 
-uvicorn api:app --reload
+Run from project root:
+
+uvicorn fin-terms.main:app --reload
